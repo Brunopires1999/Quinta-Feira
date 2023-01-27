@@ -16,6 +16,7 @@ criadas pelo git branch e as integre em uma ramificação única.
 	É um comando do Git usado para atualizar a versão local de um repositório a partir de uma versão remota.
 
 6 - O que é push?
+	É usado para enviar o conteúdo do repositório local para um repositório remoto. 
 	
 7 - O que é fork?
 8 - O que é pull request?
