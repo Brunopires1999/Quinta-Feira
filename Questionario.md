@@ -26,4 +26,5 @@ criadas pelo git branch e as integre em uma ramificação única.
 em uma ramificação de um repositório no GitHub.
 
 9 - O que é Branch?
+	 cria uma ramificação do código principal para que seja possível fazer alterações sem nenhum tipo de problema. 
 10 - O que é um VCS?
