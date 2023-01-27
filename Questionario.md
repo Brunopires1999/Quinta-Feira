@@ -22,5 +22,8 @@ criadas pelo git branch e as integre em uma ramificação única.
 	é um novo repositório que compartilha configurações de código e visibilidade com o repositório "upstream" original.
 
 8 - O que é pull request?
+	As solicitações de pull permitem que você informe outras pessoas sobre as alterações por push feitas 
+em uma ramificação de um repositório no GitHub.
+
 9 - O que é Branch?
 10 - O que é um VCS?
