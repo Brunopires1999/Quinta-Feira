@@ -3,6 +3,7 @@
  um clone ou cópia deste repositório no novo diretório, em outro local.
 
 2 - O que é commit?
+	um commit registra alterações em um ou mais arquivos no seu branch.
 3 - O que é um repositorio?
 4 - O que é merge?
 5 - O que é pull?
