@@ -9,6 +9,8 @@
 	é um diretório onde os arquivos do seu projeto ficam armazenados.
 	
 4 - O que é merge?
+	O comando git merge permite que você pegue as linhas de desenvolvimento independentes 
+criadas pelo git branch e as integre em uma ramificação única.
 
 5 - O que é pull?
 6 - O que é push?
