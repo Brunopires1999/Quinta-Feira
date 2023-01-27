@@ -19,6 +19,8 @@ criadas pelo git branch e as integre em uma ramificação única.
 	É usado para enviar o conteúdo do repositório local para um repositório remoto. 
 	
 7 - O que é fork?
+	é um novo repositório que compartilha configurações de código e visibilidade com o repositório "upstream" original.
+
 8 - O que é pull request?
 9 - O que é Branch?
 10 - O que é um VCS?
