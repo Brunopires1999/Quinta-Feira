@@ -13,7 +13,10 @@
 criadas pelo git branch e as integre em uma ramificação única.
 
 5 - O que é pull?
+	É um comando do Git usado para atualizar a versão local de um repositório a partir de uma versão remota.
+
 6 - O que é push?
+	
 7 - O que é fork?
 8 - O que é pull request?
 9 - O que é Branch?
