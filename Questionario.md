@@ -28,3 +28,5 @@ em uma ramificação de um repositório no GitHub.
 9 - O que é Branch?
 	 cria uma ramificação do código principal para que seja possível fazer alterações sem nenhum tipo de problema. 
 10 - O que é um VCS?
+	Um Sistema de Controle de Versão (ou Version Control System - VCS) 
+é uma metodologia ou ferramenta que ajuda a rastrear alterações nos arquivos do projeto.
