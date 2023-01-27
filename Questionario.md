@@ -1,4 +1,7 @@
 1 - O que é clone?
+	clone é usado sobretudo para apontar para um repositório existente e fazer
+ um clone ou cópia deste repositório no novo diretório, em outro local.
+
 2 - O que é commit?
 3 - O que é um repositorio?
 4 - O que é merge?
